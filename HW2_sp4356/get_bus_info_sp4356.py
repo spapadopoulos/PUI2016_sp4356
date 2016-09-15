@@ -15,7 +15,7 @@ data = json.loads(data)
 bus_json_path = data["Siri"]["ServiceDelivery"]["VehicleMonitoringDelivery"][0]["VehicleActivity"]
 bus_name = bus_json_path[0]['MonitoredVehicleJourney']['PublishedLineName']
 
-with open(output_file,'wb') as csvfile:  # REmemnber to change foo with output_file
+with open(output_file,'wb') as csvfile: 
     bus_writer = csv.writer(csvfile)
     bus_writer.writerow(['Latitude', 'Longitude', 'Stop Name', 'Stop Status'])
 
