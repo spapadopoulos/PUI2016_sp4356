@@ -4,7 +4,7 @@ Script **show_bus_locations_sp4356.py** uses as inputs the bus number and the AP
  
 # Assignement 2
 
-Script **get_bus_info_sp4356.py** ask for the same inputs as above, plus the output file name. Outputs the bus's current location, the next stop and the proximity to the stop.
+Script **get_bus_info_sp4356.py** asks the user for the same inputs as above, plus the output file name. Outputs the bus's current location, the next stop and the proximity to the stop.
 
 # Assignement 3
 
