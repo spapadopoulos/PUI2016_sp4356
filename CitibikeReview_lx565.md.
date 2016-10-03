@@ -1,0 +1,37 @@
+The idea of my classmate's work: Young people are more likely to use bikes to commute compared to older people.
+
+His NULL HYPOTHESIS:
+
+The ratio of people aged 21-40 biking on weekdays to people aged 21-40 biking on weekends is 
+equal or lower than the ration of people aged 41-60 biking on weekdays to people aged 41-60 biking on weekends.
+
+--------------------------------------
+
+I think his hypothesis is reasonable. 
+
+In order to verify that the data supports the project: 
+
+He has the data both of the usage of different ages groups and also each week days usage data. 
+
+To decide which test to use:
+
+I ask myself three questions:
+
+1. what type of data? 
+
+Based on his hypothesis, it has the independent variable - the two age groups, 
+which is the Younger group 21-40,  and the older group 41-60, I would identify them as Categorical variables. 
+
+2. how many samples do i have? 
+
+two samples, older and younger. Also each sample has two variables. 
+The age and the days of the week of riding. The ratio is the dependent variable, which is continuous data.
+
+3. what the purpose:
+
+Get the difference of the ratios of two samples sets. 
+
+So I would recommend my classmate to use T - test
+
+
+
