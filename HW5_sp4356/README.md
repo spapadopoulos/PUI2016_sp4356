@@ -14,7 +14,7 @@ I fit a regression line to model the data for different races, and a second regr
 
 ## Assignment 3
 
-# Hypothesis testing
+### Hypothesis testing
 
 $H_{0}$ The average percentage fat loss for the duration of the experiment in the "exercise" group was less or equal to the average percentage fat loss in the diet group.
 
