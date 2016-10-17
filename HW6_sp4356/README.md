@@ -4,7 +4,7 @@ In this assignment, I use the LL84 and PLUTO data to predict building energy con
 
 As far as the extra credit is concerned, I plot the log likelihood surface for a range of intercepts and slopes, and visually confirm that the coefficients obtained from the linear regression models minimize the error. Additionally, I present a plot showing how building energy inensity is changing based on building age, area and number of floors.
 
-__Note: __ I discussed the implementation of the chi-square and likelihood ratio tests with Felipe Gonzalez (fdg224). Also, Felipe helped my debug my code for the first part of the extra credit assignment.
+**Contribution:** I discussed the implementation of the chi-square and likelihood ratio tests with Felipe Gonzalez (fdg224). Also, Felipe helped my debug my code for the first part of the extra credit assignment.
 
 # Assignment 2
 
