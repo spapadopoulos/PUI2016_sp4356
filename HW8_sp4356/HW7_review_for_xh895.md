@@ -1,3 +1,5 @@
+![Alt text](xh.png)
+
 The information is delivered efficiently and the graph is easy to interpret! The y-axis range starts from zero, giving an objective visualization of the difference in quantities, as well as their deviation from the global average. 
 
 Nevertheless, a caption would be very helpful to help readers easily understand the purpose of the plot and summarize the variables depicted. 
