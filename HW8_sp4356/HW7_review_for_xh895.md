@@ -2,9 +2,7 @@
 
 The information is delivered efficiently and the graph is easy to interpret! The y-axis range starts from zero, giving an objective visualization of the difference in quantities, as well as their deviation from the global average. 
 
-Nevertheless, a caption would be very helpful to help readers easily understand the purpose of the plot and summarize the variables depicted. 
-
-Also, it could potentially include a brief description of PM2.5, a rather technical term and also include the time horizon of the data. 
+Nevertheless, a caption would be very helpful to help readers easily understand the purpose of the plot and summarize the variables depicted. Also, it could potentially include a brief description of PM2.5, a rather technical term and also include the time horizon of the data. 
 
 Presenting the global average is a very useful information. The label of the average would look much better on the label box (top right) rather than on top of the line. 
 
