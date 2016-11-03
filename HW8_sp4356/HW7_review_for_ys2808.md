@@ -2,13 +2,9 @@
 
 __Plot 1__ is a picture of sunflowers transformed in black and white color map.
 
+
 ![Alt text](ys_2.png)
 
-\
-
-\
-
-\
 
 __Plot 2__ shows the top 20 NYC zip codes with water related complaints. It shows a bar chart of complaint counts/zip code that delivers the information needed adequately. Few comments/suggestions I would have on the plot are:
 It would be nice if there was a caption describing the plot. 
