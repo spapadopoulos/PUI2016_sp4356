@@ -1,4 +1,4 @@
-In this notebook I use MTA data from 2010-2014. The goal is to detect extreme events, trends and seasonal patterns in the data.
+In this notebook I use MTA usage data from 2010-2014. The goal is to detect extreme events, trends and seasonal patterns in the data.
 
 First, I aggregate the data in one time series of cummulative rides over time and observe an extremely low ridership in the last week 
 of October 2012. The finding is explained by an extreme event occurred in NYC during this time (Hurricane Sandy).
