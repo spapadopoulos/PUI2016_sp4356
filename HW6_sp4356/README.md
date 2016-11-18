@@ -11,3 +11,5 @@ As far as the extra credit is concerned, I plot the log likelihood surface for a
 In this assignment, I finish the citibike mini-project from previous assignment. Test the hypothesis that younger people commute by bike more often than older. Detailed description of the analysis can be found in the following link:
 
 https://www.authorea.com/users/106027/articles/133819/_show_article
+
+# FBB very good1 see a few comments in the article itself
